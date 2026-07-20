@@ -28,16 +28,10 @@ Passionate about Robotics, Autonomous Systems, Computer Vision, and Intelligent 
 
 ---
 
-<h2>🚀 Current Focus</h2>
+<h2>🚀 Current Working Repository</h2>
 
 <ul>
 <li>Python : https://github.com/haider-rizvi-github/100-Days-of-Python</li>  
-<li>ROS 2 Development</li>
-<li>Motion Planning</li>
-<li>Robot Kinematics</li>
-<li>MoveIt2</li>
-<li>Computer Vision using YOLOv8</li>
-<li>Autonomous Mobile Robots</li>
 </ul>
 
 ---
