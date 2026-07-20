@@ -15,6 +15,7 @@ Passionate about Robotics, Autonomous Systems, Computer Vision, and Intelligent 
 <h2>👨‍💻 About Me</h2>
 
 <ul>
+<li>Currently working as Research Assistant @ University of Siegen for **m2future – Werkzeugbau der Zukunft**</li>  
 <li>🎓 M.Sc. Mechatronics @ University of Siegen</li>
 <li>🎓 B.E. Mechanical Engineering @ Mehran University</li>
 <li>⚙️ Mechanical Engineer with industrial production and quality control experience</li>
