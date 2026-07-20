@@ -16,10 +16,11 @@ Passionate about Robotics, Autonomous Systems, Computer Vision, and Intelligent 
 
 <ul>
 <li>🎓 M.Sc. Mechatronics @ University of Siegen</li>
-<li>⚙️ Mechanical Engineer with industrial production experience</li>
+<li>🎓 B.E. Mechanical Engineering @ Mehran University</li>
+<li>⚙️ Mechanical Engineer with industrial production and quality control experience</li>
 <li>🤖 Robotics Software Developer</li>
 <li>💻 Strong in C++ & Python</li>
-<li>🐧 Linux & ROS 2 Enthusiast</li>
+<li>🐧 Linux & ROS 2</li>
 <li>👁️ Interested in Computer Vision & AI for Robotics</li>
 <li>📍 Based in Germany</li>
 </ul>
@@ -134,12 +135,12 @@ Passionate about Robotics, Autonomous Systems, Computer Vision, and Intelligent 
 <h2>📈 Currently Learning</h2>
 
 <ul>
+<li>Python</li> 
 <li>Advanced ROS 2</li>
 <li>MoveIt2</li>
 <li>Robot Manipulation</li>
 <li>SLAM</li>
 <li>Navigation2</li>
-<li>Reinforcement Learning</li>
 <li>Computer Vision</li>
 </ul>
 
