@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Syed Muhammad Haider Rizvi</h1>
 
 <h3 align="center">
-Mechatronics Engineer | Robotics Developer | Mechanical Engineer
+Mechatronics Engineer | Mechanical Engineer
 </h3>
 
 <p align="center">
